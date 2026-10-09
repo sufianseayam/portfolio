@@ -2,7 +2,7 @@
 
 Personal portfolio of **Md. Abu Sufian**, a Software Engineering student at Daffodil International University focused on full-stack JavaScript and backend development. Built to showcase my projects and learning journey for internship and junior developer applications.
 
-**Live site:** _add your deployed URL here_
+**Live site:** _https://portfolio-abusufian.vercel.app/_
 
 ## About the Portfolio
 
